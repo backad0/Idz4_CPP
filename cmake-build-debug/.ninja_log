@@ -1,0 +1,25 @@
+# ninja log v5
+15	2707	7068665696997504	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	2a2b6f6357f28604
+1	2765	7068665697595905	CMakeFiles/main.dir/main.cpp.obj	beefe82089615ae4
+8	10532	7068665775141844	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	6c41db710f3e2ff5
+10534	13079	7068665800726178	lib/libgtest.a	1334603064932474
+13079	13164	7068665801583880	lib/libgtest_main.a	a9cb6356f1eef3f0
+13164	17304	7068665842972177	main.exe	33c2aa3dff793dfc
+13164	17304	7068665842972177	main[1]_tests.cmake	33c2aa3dff793dfc
+13164	17304	7068665842972177	C:/Users/alesh/CLionProjects/c++ programing university/Idz4/cmake-build-debug/main[1]_tests.cmake	33c2aa3dff793dfc
+6	2154	7068666186266324	CMakeFiles/main.dir/main.cpp.obj	beefe82089615ae4
+2154	6038	7068666225105566	main.exe	33c2aa3dff793dfc
+2154	6038	7068666225105566	main[1]_tests.cmake	33c2aa3dff793dfc
+2154	6038	7068666225105566	C:/Users/alesh/CLionProjects/c++ programing university/Idz4/cmake-build-debug/main[1]_tests.cmake	33c2aa3dff793dfc
+6	1724	7068667004350171	CMakeFiles/main.dir/main.cpp.obj	beefe82089615ae4
+1725	5297	7068667040069831	main.exe	33c2aa3dff793dfc
+1725	5297	7068667040069831	main[1]_tests.cmake	33c2aa3dff793dfc
+1725	5297	7068667040069831	C:/Users/alesh/CLionProjects/c++ programing university/Idz4/cmake-build-debug/main[1]_tests.cmake	33c2aa3dff793dfc
+4	1846	7068667584514678	CMakeFiles/main.dir/main.cpp.obj	beefe82089615ae4
+1847	5521	7068667621269172	main.exe	33c2aa3dff793dfc
+1847	5521	7068667621269172	main[1]_tests.cmake	33c2aa3dff793dfc
+1847	5521	7068667621269172	C:/Users/alesh/CLionProjects/c++ programing university/Idz4/cmake-build-debug/main[1]_tests.cmake	33c2aa3dff793dfc
+4	1791	7068667755832703	CMakeFiles/main.dir/main.cpp.obj	beefe82089615ae4
+1792	5354	7068667791455467	main.exe	33c2aa3dff793dfc
+1792	5354	7068667791455467	main[1]_tests.cmake	33c2aa3dff793dfc
+1792	5354	7068667791455467	C:/Users/alesh/CLionProjects/c++ programing university/Idz4/cmake-build-debug/main[1]_tests.cmake	33c2aa3dff793dfc
